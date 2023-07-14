@@ -1,0 +1,6 @@
+cv2
+tempfile
+matplotlib
+tensorflow
+cvzone
+mediapipe
