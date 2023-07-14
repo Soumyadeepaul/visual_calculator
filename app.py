@@ -18,7 +18,7 @@ def main():
     st.markdown("<h1 style='text-align: center; color: black; background-color: white;'>Visual Calculator</h1>",unsafe_allow_html=True)
     st.markdown("<h5 style='text-align: center; color: white; background-color: purple; padding-top: 20px;'>Based on: Convolutional Netural Network</h5>",unsafe_allow_html=True)
     #load the model
-    model = load_model(r'C:\Users\Lenovo\nn_calculator_project\calculator4.h5')
+    model = load_model(r'model/calculator4.h5')
 
     # Image resizing to aspect ration 1:1
     def resize_img(img, imgh, imgw):
