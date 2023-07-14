@@ -1,5 +1,4 @@
 opencv-python
-tempfile
 matplotlib
 tensorflow
 cvzone
